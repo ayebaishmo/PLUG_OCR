@@ -3,3 +3,10 @@
 
 # Ada Library Information
 *.ali
+
+.env
+
+Pipfile
+
+Pipfile.lock
+
